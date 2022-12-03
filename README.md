@@ -23,6 +23,7 @@ Feel free to reach out at siramojtahedi@gmail.com
 ![SASS](https://img.shields.io/badge/-SASS-05122A?style=for-the-badge&logo=sass&logoColor=CC6699)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=for-the-badge&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![MUI](https://img.shields.io/badge/-MUI-05122A?style=for-the-badge&logo=mui&logoColor=007FFF)&nbsp;
+![Ant design](https://img.shields.io/badge/-Antdesign-05122A?style=for-the-badge&logo=Antdesign)&nbsp;
 ![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=for-the-badge&logo=jQuery)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
 ![Wordpress](https://img.shields.io/badge/-Wordpress-05122A?style=for-the-badge&logo=Wordpress)&nbsp;
