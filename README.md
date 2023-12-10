@@ -3,7 +3,7 @@
 
 ### 👩‍💻 &nbsp;About Me
 
-Frontend Developer with 3+ years of experience.<br/>
+Frontend Developer with 4+ years of experience.<br/>
 Developed websites with skills like HTML, CSS, JavaScript, React.js, Redux, Next.js, etc.<br/>
 passionate about responsive website design and making reusable and maintainable codes.<br/>
 Feel free to reach out at siramojtahedi@gmail.com
