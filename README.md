@@ -1,7 +1,6 @@
 
-# I'm Sima Mojtahedi
 
-### 👩‍💻 &nbsp;About Me
+## 👩‍💻 &nbsp;About Me
 
 Frontend Developer with 4+ years of experience.<br/>
 Developed websites with skills like HTML, CSS, JavaScript, React.js, Redux, Next.js, etc.<br/>
@@ -11,7 +10,7 @@ Feel free to reach out at siramojtahedi@gmail.com
 <br/>
 <br/>
 
-### 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=typescript)&nbsp;
@@ -33,7 +32,7 @@ Feel free to reach out at siramojtahedi@gmail.com
 <br/>
 <br/>
 
-### ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/AVS1508">
@@ -45,7 +44,7 @@ Feel free to reach out at siramojtahedi@gmail.com
 <br/>
 <br/>
 
-### 🤝🏻 &nbsp;Connect with Me
+## 🤝🏻 &nbsp;Connect with Me
 
 <p align="left">
 <a href="https://linkedin.com/in/sima-mojtahedi"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
