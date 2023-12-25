@@ -19,8 +19,10 @@ Feel free to reach out at siramojtahedi@gmail.com
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=for-the-badge&logo=redux&logoColor=764ABC)&nbsp;
 ![React Query](https://img.shields.io/badge/-ReactQuery-05122A?style=for-the-badge&logo=reactQuery&logoColor=FF4154)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-05122A?style=for-the-badge&logo=jest&logoColor=C21325)&nbsp;
+![Testing-Library](https://img.shields.io/badge/-TestingLibrary-05122A?style=for-the-badge&logo=testing-library&logoColor=C21325)&nbsp;
+![React Test Library](https://img.shields.io/badge/-Jest-05122A?style=for-the-badge&logo=jest&logoColor=C21325)&nbsp;
 ![PWA](https://img.shields.io/badge/-PWA-05122A?style=for-the-badge&logo=pwa&logoColor=C21325)&nbsp;
-<br />
+![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=for-the-badge&logo=graphql&logoColor=FF4154)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
 ![SASS](https://img.shields.io/badge/-SASS-05122A?style=for-the-badge&logo=sass&logoColor=CC6699)&nbsp;
@@ -29,8 +31,6 @@ Feel free to reach out at siramojtahedi@gmail.com
 ![MUI](https://img.shields.io/badge/-MUI-05122A?style=for-the-badge&logo=mui&logoColor=007FFF)&nbsp;
 ![Ant design](https://img.shields.io/badge/-Antdesign-05122A?style=for-the-badge&logo=Antdesign)&nbsp;
 ![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=for-the-badge&logo=jQuery)&nbsp;
-<br />
-![NPM](https://img.shields.io/badge/-NPM-05122A?style=for-the-badge&logo=npm&logoColor=C21325)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
 ![Wordpress](https://img.shields.io/badge/-Wordpress-05122A?style=for-the-badge&logo=Wordpress)&nbsp;
 ![Woocommerce](https://img.shields.io/badge/-Woocommerce-05122A?style=for-the-badge&logo=Woocommerce)&nbsp;
