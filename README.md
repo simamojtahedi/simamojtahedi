@@ -2,9 +2,9 @@
 
 ## 👩‍💻 &nbsp;About Me
 
-Frontend Developer with 4+ years of experience, both as a freelancer and a full-time employee.<br/>
-Developed websites with skills like HTML, CSS, JavaScript, React.js, Redux, Next.js, etc.<br/>
-passionate about responsive website design and making reusable and maintainable codes.<br/>
+Frontend developer with nearly 5 years of experience. I'm always ready to tackle challenging projects, quickly learn new technologies, and deliver the best possible results.
+I specialize in responsive design, cross-browser compatibility, and writing reusable, maintainable code.<br/> I’m dedicated to learning whatever it takes to ensure project success.
+<br/>
 Feel free to reach out at siramojtahedi@gmail.com
 
 <br/>
