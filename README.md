@@ -2,6 +2,12 @@
 
 ## 👩‍💻 &nbsp;About Me
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs" />
+  </a>
+</p>
+
 Frontend developer with nearly 5 years of experience. I'm always ready to tackle challenging projects, quickly learn new technologies, and deliver the best possible results.
 I specialize in responsive design, cross-browser compatibility, and writing reusable, maintainable code.<br/> I’m dedicated to learning whatever it takes to ensure project success.
 <br/>
