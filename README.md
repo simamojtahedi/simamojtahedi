@@ -3,16 +3,17 @@
 ## 👩‍💻 &nbsp;About Me
 
 I’m a web developer with nearly five years of experience, dedicated to building intuitive and high-performance web applications.
-<br /> In addition, I am the Co-Founder of @bodybon, where I focus on creating impactful and meaningful products, primarily in the health sector.
+<br /> In addition, I am the Co-Founder of [**@bodybon**](https://github.com/bodybon), where I focus on creating impactful and meaningful products, primarily in the health sector.
 
-If you have an exciting project or would like to collaborate, feel free to reach out to me at siramojtahedi@gmail.com.
+
+If you have an exciting project or would like to collaborate, feel free to reach out to me at **siramojtahedi@gmail.com**.
 
 
 ## 🛠 &nbsp;Tech Stack
 
-Frontend:  JavaScript, TypeScript, Next.js, React, Redux, PWA, HTML, CSS, Tailwind <br />
-Data Science: Python, NumPy, Pandas, Scikit-Learn, TensorFlow, Keras, Matplotlib <br />
-Backend: Python, PHP, Laravel
+**Frontend:**  JavaScript, TypeScript, Next.js, React, Redux, PWA, HTML, CSS, Tailwind <br />
+**Data Science:** Python, NumPy, Pandas, Scikit-Learn, TensorFlow, Keras, Matplotlib <br />
+**Backend:** Python, PHP, Laravel
 <br /><br />
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
