@@ -2,21 +2,18 @@
 
 ## 👩‍💻 &nbsp;About Me
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs" />
-  </a>
-</p>
+I’m a web developer with nearly five years of experience, dedicated to building intuitive and high-performance web applications.
+<br /> In addition, I am the Co-Founder of @bodybon, where I focus on creating impactful and meaningful products, primarily in the health sector.
 
-Frontend developer with nearly 5 years of experience. I'm always ready to tackle challenging projects, quickly learn new technologies, and deliver the best possible results.
-I specialize in responsive design, cross-browser compatibility, and writing reusable, maintainable code.<br/> I’m dedicated to learning whatever it takes to ensure project success.
-<br/>
-Feel free to reach out at siramojtahedi@gmail.com
+If you have an exciting project or would like to collaborate, feel free to reach out to me at siramojtahedi@gmail.com.
 
-<br/>
-<br/>
 
 ## 🛠 &nbsp;Tech Stack
+
+Frontend:  JavaScript, TypeScript, Next.js, React, Redux, PWA, HTML, CSS, Tailwind <br />
+Data Science: Python, NumPy, Pandas, Scikit-Learn, TensorFlow, Keras, Matplotlib <br />
+Backend: Python, PHP, Laravel
+<br /><br />
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=typescript)&nbsp;
