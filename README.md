@@ -11,8 +11,8 @@ If you have an exciting project or would like to collaborate, feel free to reach
 
 ## 🛠 &nbsp;Tech Stack
 
-**Frontend:**  JavaScript, TypeScript, Next.js, React, Redux, PWA, HTML, CSS, Tailwind <br />
-**Data Science:** Python, NumPy, Pandas, Scikit-Learn, TensorFlow, Keras, Matplotlib <br />
+**Frontend:**  JavaScript, TypeScript, Next.js, React.js, Redux, Zustand, PWA, HTML, CSS, Tailwind, Jest, RTL <br />
+**Data Science:** Python, NumPy, Pandas, Seaborn, Matplotlib, Scikit-Learn, TensorFlow <br />
 **Backend:** Python, PHP, Laravel
 <br /><br />
 
