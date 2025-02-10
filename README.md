@@ -13,7 +13,7 @@ If you have an exciting project or would like to collaborate, feel free to reach
 
 **Frontend:**  JavaScript, TypeScript, Next.js, React.js, Redux, Zustand, PWA, HTML, CSS, Tailwind, Jest, RTL <br />
 **Data Science:** Python, NumPy, Pandas, Seaborn, Matplotlib, Scikit-Learn, TensorFlow <br />
-**Backend:** Python, PHP, Laravel
+**Backend:** Node.js, express
 <br /><br />
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
