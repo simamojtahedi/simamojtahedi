@@ -11,11 +11,6 @@ If you have an exciting project or would like to collaborate, feel free to reach
 
 ## 🛠 &nbsp;Tech Stack
 
-**Frontend:**  JavaScript, TypeScript, Next.js, React.js, Redux, Zustand, PWA, HTML, CSS, Tailwind, Jest, RTL <br />
-**Data Science:** Python, NumPy, Pandas, Seaborn, Matplotlib, Scikit-Learn, TensorFlow <br />
-**Backend:** Node.js
-<br /><br />
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=typescript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react)&nbsp;
@@ -25,7 +20,15 @@ If you have an exciting project or would like to collaborate, feel free to reach
 ![Jest](https://img.shields.io/badge/-Jest-05122A?style=for-the-badge&logo=jest&logoColor=C21325)&nbsp;
 ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-05122A?style=for-the-badge&logo=testing-library&logoColor=C21325)&nbsp;
 ![React Test Library](https://img.shields.io/badge/-Jest-05122A?style=for-the-badge&logo=jest&logoColor=C21325)&nbsp;
+![Zustand](https://img.shields.io/badge/-Zustand-05122A?style=for-the-badge&logo=zustand)&nbsp;
+![TWA](https://img.shields.io/badge/-Twa-05122A?style=for-the-badge&logo=twa)&nbsp;
 ![PWA](https://img.shields.io/badge/-PWA-05122A?style=for-the-badge&logo=pwa&logoColor=C21325)&nbsp;
+![Web3](https://img.shields.io/badge/-Web3-05122A?style=for-the-badge&logo=web3)&nbsp;
+![Web3modal](https://img.shields.io/badge/-Web3modal-05122A?style=for-the-badge&logo=web3modal)&nbsp;
+![Viem](https://img.shields.io/badge/-Viem-05122A?style=for-the-badge&logo=viem)&nbsp;
+![Wagmi](https://img.shields.io/badge/-Wagmi-05122A?style=for-the-badge&logo=wagmi)&nbsp;
+![Graphql](https://img.shields.io/badge/-Graphql-05122A?style=for-the-badge&logo=graphql)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=for-the-badge&logo=graphql&logoColor=FF4154)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -39,6 +42,9 @@ If you have an exciting project or would like to collaborate, feel free to reach
 ![Wordpress](https://img.shields.io/badge/-Wordpress-05122A?style=for-the-badge&logo=Wordpress)&nbsp;
 ![Woocommerce](https://img.shields.io/badge/-Woocommerce-05122A?style=for-the-badge&logo=Woocommerce)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=for-the-badge&logo=figma)&nbsp;
+
+
+
 
 <br/>
 <br/>
