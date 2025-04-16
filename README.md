@@ -2,7 +2,7 @@
 
 ## 👩‍💻 &nbsp;About Me
 
-I’m a web developer with nearly five years of experience, dedicated to building intuitive and high-performance web applications.
+I’m a web developer dedicated to building intuitive and high-performance web applications.
 <br /> In addition, I am the Co-Founder of [**@bodybon**](https://github.com/bodybon), where I focus on creating impactful and meaningful products, primarily in the health sector.
 
 
