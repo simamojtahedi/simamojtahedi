@@ -1,15 +1,5 @@
 
-<p align="center">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=nextjs,react,typescript,javascript,html,css,reactquery,redux,zustand,tailwindcss,sass,antdesign,daisyui,shadcn,materialui,jest,testinglibrary,vitest,leaflet,chartjs,d3,alchemy,graphql,jquery,pnpm,pwa,socketio,threejs,vite,webpack,nodejs,mongodb,git,github,python,anaconda,jupyter,huggingface,matplotlib,numpy,pandas,seaborn,tensorflow,pytorch,chatgpt,gemini,n8n,ollama,figma,wordpress"
-    />
-  </a>
-</p>
-
-<br/><br/>
-
-**Hey there! I’m a web developer passionate about building meaningful and useful products. I'm the co-founder of [**@bodybon**](https://github.com/bodybon), [**@voicare**](https://github.com/voi-care), and a few other stealth-mode projects.**
+**Hey there! <br/> I’m a web developer passionate about building meaningful and useful products. I'm the co-founder of [**@bodybon**](https://github.com/bodybon), [**@voicare**](https://github.com/voi-care), and a few other stealth-mode projects.**
 <br/>
 
 **I thrive on collaboration, bold ideas, and building things that matter. Got something cool in mind? Let’s make it happen!**
@@ -18,6 +8,41 @@
 
 <br/><br/>
 
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=nextjs,react,typescript,javascript,html,css,reactquery,redux,zustand,tailwindcss,sass,jest,testinglibrary,pwa,threejs"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=leaflet,shadcn,daisyui,antdesign,materialui,vitest,chartjs,d3,alchemy,graphql,jquery,pnpm,socketio,vite,webpack"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,mongodb,git,github,anaconda,jupyter,huggingface,matplotlib,numpy,pandas,seaborn,tensorflow,pytorch,chatgpt,gemini"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=python,n8n,ollama,figma,wordpress"
+    />
+  </a>
+</p>
+
+
+
+<br/><br/>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
