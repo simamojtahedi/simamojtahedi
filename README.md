@@ -4,7 +4,7 @@
 
 **I thrive on collaboration, bold ideas, and building things that matter. Got something cool in mind? Let’s make it happen!**
 <br/>
-**[**Email**](siramojtahedi@gmail.com) me or connect on [**Linkedin**](https://linkedin.com/in/sima-mojtahedi). I’m always up for an adventure in code!**
+**[**Email**](mailto:siramojtahedi@gmail.com) me or connect on [**Linkedin**](https://linkedin.com/in/sima-mojtahedi). I’m always up for an adventure in code!**
 
 <br/><br/>
 
